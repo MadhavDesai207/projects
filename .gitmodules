@@ -7,3 +7,6 @@
 [submodule "stone-paper-scissors"]
 	path = stone-paper-scissors
 	url = https://github.com/MadhavDesai207/stone-paper-scissors.git
+[submodule "mInventra"]
+	path = mInventra
+	url = https://github.com/MadhavDesai207/mInventra.git
