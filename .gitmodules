@@ -10,3 +10,6 @@
 [submodule "mInventra"]
 	path = mInventra
 	url = https://github.com/MadhavDesai207/mInventra.git
+[submodule "currency_converter"]
+	path = currency_converter
+	url = https://github.com/MadhavDesai207/currency_converter.git
